@@ -2,7 +2,7 @@
 
 1. [Istorie - Holocaustul](./Holocaustul.pptx)
 
-2. [Geografie - Transilvania](./Transilvania.pptx)
+2. [Geografie - Transilvania](./transilvania.pptx)
 
 3. [Fizica - Lentile Optice](./fizica.pptx)
 
