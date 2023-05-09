@@ -1,5 +1,11 @@
 ## Proiecte
 
+## NOI
+
+1. [Istorie - 9 Mai si UE](./europa.pptx)
+
+## VECHI
+
 1. [Istorie - Holocaustul](./Holocaustul.pptx)
 
 2. [Geografie - Transilvania](./transilvania.pptx)
